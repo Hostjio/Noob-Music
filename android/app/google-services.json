@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024268940645",
+    "firebase_url": "https://noob-music-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "noob-music-app",
+    "storage_bucket": "noob-music-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024268940645:android:8e8c1b47a03118234c5d8c",
+        "android_client_info": {
+          "package_name": "com.noob.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024268940645-6g3hmvga9stluanv42vjlgftqq4tlnt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVQuccOyLQ5-SL8K92Rvh49ROn2FEuJRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024268940645-6g3hmvga9stluanv42vjlgftqq4tlnt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
